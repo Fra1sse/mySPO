@@ -1,0 +1,402 @@
+[
+  {
+    "caption": "studio portrait of young male asian, soft studio lighting, ultra-sharp",
+    "trainset_idx": 1
+  },
+  {
+    "caption": "cinematic close-up of middle-aged female caucasian, rim light, f/1.8",
+    "trainset_idx": 2
+  },
+  {
+    "caption": "candid headshot of elderly male african, cinematic lighting, Kodak Porta 400",
+    "trainset_idx": 3
+  },
+  {
+    "caption": "studio portrait of teenager female latino, shallow depth of field, 50 mm",
+    "trainset_idx": 4
+  },
+  {
+    "caption": "cinematic close-up of young female asian, high-detail skin, ultra-sharp",
+    "trainset_idx": 5
+  },
+  {
+    "caption": "candid headshot of middle-aged male caucasian, expression, DSLR",
+    "trainset_idx": 6
+  },
+  {
+    "caption": "studio portrait of elderly female latino, hairstyle, f/1.8, 50 mm",
+    "trainset_idx": 7
+  },
+  {
+    "caption": "cinematic close-up of teenager male african, skin detail, ultra-sharp",
+    "trainset_idx": 8
+  },
+  {
+    "caption": "candid headshot of young female caucasian, rim light, high-detail skin",
+    "trainset_idx": 9
+  },
+  {
+    "caption": "studio portrait of middle-aged male asian, expression, cinematic lighting",
+    "trainset_idx": 10
+  },
+  {
+    "caption": "studio portrait of young female, curly hair, serene expression, ultra-sharp, f/1.8",
+    "trainset_idx": 11
+  },
+  {
+    "caption": "cinematic close-up of mature male, beard detail, stoic expression, rim light, 50 mm",
+    "trainset_idx": 12
+  },
+  {
+    "caption": "candid headshot of elderly Asian woman, wrinkled skin, melancholic expression, soft studio lighting",
+    "trainset_idx": 13
+  },
+  {
+    "caption": "studio portrait of child boy, curly hair, playful expression, high-detail skin, shallow depth of field",
+    "trainset_idx": 14
+  },
+  {
+    "caption": "cinematic close-up of middle-aged man, goatee, neutral expression, cinematic lighting, Kodak Porta 400",
+    "trainset_idx": 15
+  },
+  {
+    "caption": "candid headshot of mature female, silver hair, contemplative expression, DSLR, f/1.8",
+    "trainset_idx": 16
+  },
+  {
+    "caption": "studio portrait of young male, stubble, joyous expression, ultra-sharp, shallow depth of field",
+    "trainset_idx": 17
+  },
+  {
+    "caption": "cinematic close-up of elderly male, sparse hair, wistful expression, rim light, 50 mm",
+    "trainset_idx": 18
+  },
+  {
+    "caption": "candid headshot of teenage girl, straight hair, determined expression, soft studio lighting, high-detail skin",
+    "trainset_idx": 19
+  },
+  {
+    "caption": "studio portrait of middle-aged female, ethnic features, calm expression, cinematic lighting, DSLR",
+    "trainset_idx": 20
+  },
+  {
+    "caption": "studio portrait of 50 mm, candid headshot of young man, ultra-sharp, soft studio lighting",
+    "trainset_idx": 21
+  },
+  {
+    "caption": "cinematic close-up of elderly woman, Kodak Porta 400, high-detail skin, rim light",
+    "trainset_idx": 22
+  },
+  {
+    "caption": "candid headshot of teenager, 50 mm, f/1.8, natural expression, curly hair",
+    "trainset_idx": 23
+  },
+  {
+    "caption": "studio portrait of young woman, ultra-sharp, shallow depth of field, ethnic skin detail",
+    "trainset_idx": 24
+  },
+  {
+    "caption": "cinematic close-up of middle-aged man, DSLR, cinematic lighting, mustache, intense expression",
+    "trainset_idx": 25
+  },
+  {
+    "caption": "studio portrait of elderly man, 50 mm, Kodak Porta 400, textured skin detail, serious expression",
+    "trainset_idx": 26
+  },
+  {
+    "caption": "candid headshot of young boy, soft studio lighting, short hair, bright eyes, natural lighting",
+    "trainset_idx": 27
+  },
+  {
+    "caption": "cinematic close-up of ethnic woman, ultra-sharp, shallow depth of field, playful expression",
+    "trainset_idx": 28
+  },
+  {
+    "caption": "studio portrait of older woman, f/1.8, cinematic lighting, silver hair, faint smile",
+    "trainset_idx": 29
+  },
+  {
+    "caption": "cinematic close-up of young girl, high-detail skin, rim light, long hair, wide-eyed smile",
+    "trainset_idx": 30
+  },
+  {
+    "caption": "studio portrait of young male caucasian, expression neutral, messy hair, ultra-sharp, f/1.8",
+    "trainset_idx": 31
+  },
+  {
+    "caption": "cinematic close-up of elderly female asian, expression serene, silver hair, shallow depth of field, Kodak Porta 400",
+    "trainset_idx": 32
+  },
+  {
+    "caption": "candid headshot of child african, expression curious, braids, soft studio lighting, high-detail skin",
+    "trainset_idx": 33
+  },
+  {
+    "caption": "studio portrait of middle-aged female latina, expression thoughtful, bangs, 50 mm, ultra-sharp",
+    "trainset_idx": 34
+  },
+  {
+    "caption": "cinematic close-up of young female asian, expression happy, glasses, rim light, DSLR",
+    "trainset_idx": 35
+  },
+  {
+    "caption": "candid headshot of elderly male caucasian, expression contemplative, beard, high-detail skin, shallow depth of field",
+    "trainset_idx": 36
+  },
+  {
+    "caption": "studio portrait of male african, expression neutral, afro, cinematic lighting, ultra-sharp",
+    "trainset_idx": 37
+  },
+  {
+    "caption": "cinematic close-up of female latina, expression warm, long hair, f/1.8, Kodak Porta 400",
+    "trainset_idx": 38
+  },
+  {
+    "caption": "candid headshot of child caucasian, expression playful, ponytail, soft studio lighting, 50 mm",
+    "trainset_idx": 39
+  },
+  {
+    "caption": "studio portrait of young male asian, expression determined, sunglasses, shallow depth of field, high-detail skin",
+    "trainset_idx": 40
+  },
+  {
+    "caption": "studio portrait of young woman, soft studio lighting, natural hair, smiling, high-detail skin",
+    "trainset_idx": 41
+  },
+  {
+    "caption": "cinematic close-up of elderly man, rim light, gray beard, serious expression, Kodak Porta 400",
+    "trainset_idx": 42
+  },
+  {
+    "caption": "candid headshot of diverse teenager, ultra-sharp, afro hairstyle, wide eyes, f/1.8",
+    "trainset_idx": 43
+  },
+  {
+    "caption": "studio portrait of middle-aged woman, shallow depth of field, curly hair, wearing hat, 50 mm",
+    "trainset_idx": 44
+  },
+  {
+    "caption": "cinematic close-up of Asian man, cinematic lighting, mustache, neutral expression, DSLR",
+    "trainset_idx": 45
+  },
+  {
+    "caption": "candid headshot of elderly man, ultra-sharp, white hair, wearing glasses, high-detail skin",
+    "trainset_idx": 46
+  },
+  {
+    "caption": "studio portrait of young boy, soft studio lighting, messy hair, happy expression, Kodak Porta 400",
+    "trainset_idx": 47
+  },
+  {
+    "caption": "cinematic close-up of Hispanic woman, rim light, long braids, warm smile, f/1.8",
+    "trainset_idx": 48
+  },
+  {
+    "caption": "candid headshot of middle-aged woman, shallow depth of field, ponytail, ethnic skin detail, 50 mm",
+    "trainset_idx": 49
+  },
+  {
+    "caption": "studio portrait of African man, cinematic lighting, goatee, intense expression, DSLR",
+    "trainset_idx": 50
+  },
+  {
+    "caption": "cinematic close-up of young male model with stubble, glowing rim light, ultra-sharp",
+    "trainset_idx": 51
+  },
+  {
+    "caption": "studio portrait of elderly Asian woman with wrinkles, shallow depth of field, Kodak Porta 400",
+    "trainset_idx": 52
+  },
+  {
+    "caption": "candid headshot of African American girl with braids, soft studio lighting, high-detail skin",
+    "trainset_idx": 53
+  },
+  {
+    "caption": "cinematic close-up of 30s female with dimpled smile, f/1.8, 50 mm DSLR",
+    "trainset_idx": 54
+  },
+  {
+    "caption": "studio portrait of androgynous person with moles, ultra-sharp, rim light",
+    "trainset_idx": 55
+  },
+  {
+    "caption": "candid headshot of elderly man with beard, shallow depth of field, cinematic lighting",
+    "trainset_idx": 56
+  },
+  {
+    "caption": "cinematic close-up of mixed-race teenager with bangs, Kodak Porta 400, high-detail skin",
+    "trainset_idx": 57
+  },
+  {
+    "caption": "studio portrait of young Asian woman with eyeliner, ultra-sharp, f/1.8",
+    "trainset_idx": 58
+  },
+  {
+    "caption": "candid headshot of male with receding hairline, rim light, 50 mm DSLR",
+    "trainset_idx": 59
+  },
+  {
+    "caption": "cinematic close-up of 60s female with laugh lines, soft studio lighting, high-detail skin",
+    "trainset_idx": 60
+  },
+  {
+    "caption": "studio portrait of young male asian, soft studio lighting, ultra-sharp",
+    "trainset_idx": 61
+  },
+  {
+    "caption": "cinematic close-up of elderly female caucasian, rim light, f/1.8, 50 mm",
+    "trainset_idx": 62
+  },
+  {
+    "caption": "candid headshot of middle-aged male latino, shallow depth of field, high-detail skin",
+    "trainset_idx": 63
+  },
+  {
+    "caption": "studio portrait of child female african, cinematic lighting, Kodak Porta 400",
+    "trainset_idx": 64
+  },
+  {
+    "caption": "cinematic close-up of young female asian, ultra-sharp, 50 mm, DSLR",
+    "trainset_idx": 65
+  },
+  {
+    "caption": "candid headshot of elderly male caucasian, rim light, high-detail skin",
+    "trainset_idx": 66
+  },
+  {
+    "caption": "studio portrait of middle-aged female latino, f/1.8, cinematic lighting",
+    "trainset_idx": 67
+  },
+  {
+    "caption": "cinematic close-up of child male african, shallow depth of field, ultra-sharp",
+    "trainset_idx": 68
+  },
+  {
+    "caption": "candid headshot of young male caucasian, soft studio lighting, 50 mm",
+    "trainset_idx": 69
+  },
+  {
+    "caption": "studio portrait of elderly female asian, Kodak Porta 400, high-detail skin",
+    "trainset_idx": 70
+  },
+  {
+    "caption": "studio portrait of elderly Asian woman with serious expression, ultra-sharp, high-detail skin",
+    "trainset_idx": 71
+  },
+  {
+    "caption": "cinematic close-up of young male with tousled hair, rim light, 50 mm",
+    "trainset_idx": 72
+  },
+  {
+    "caption": "candid headshot of middle-aged Latina with soft studio lighting, subtle moles, Kodak Porta 400",
+    "trainset_idx": 73
+  },
+  {
+    "caption": "studio portrait of child with curly hair, shallow depth of field, f/1.8",
+    "trainset_idx": 74
+  },
+  {
+    "caption": "cinematic close-up of elderly Black man with deep wrinkles, ultra-sharp, DSLR",
+    "trainset_idx": 75
+  },
+  {
+    "caption": "candid headshot of young woman with bold eyebrows, cinematic lighting, high-detail skin",
+    "trainset_idx": 76
+  },
+  {
+    "caption": "studio portrait of Asian man with neutral expression, shallow depth of field, 50 mm",
+    "trainset_idx": 77
+  },
+  {
+    "caption": "cinematic close-up of child with bright eyes, soft studio lighting, Kodak Porta 400",
+    "trainset_idx": 78
+  },
+  {
+    "caption": "candid headshot of elderly White woman with silver hair, ultra-sharp, f/1.8",
+    "trainset_idx": 79
+  },
+  {
+    "caption": "studio portrait of young Black girl with wide smile, cinematic lighting, high-detail skin",
+    "trainset_idx": 80
+  },
+  {
+    "caption": "studio portrait of young male with afro, soft studio lighting, high-detail skin",
+    "trainset_idx": 81
+  },
+  {
+    "caption": "cinematic close-up of elderly female with silver hair, rim light, ultra-sharp",
+    "trainset_idx": 82
+  },
+  {
+    "caption": "candid headshot of Asian woman with neutral expression, shallow depth of field, f/1.8",
+    "trainset_idx": 83
+  },
+  {
+    "caption": "studio portrait of middle-aged man with beard, cinematic lighting, 50 mm",
+    "trainset_idx": 84
+  },
+  {
+    "caption": "cinematic close-up of non-binary person with curly hair, Kodak Porta 400, high-detail skin",
+    "trainset_idx": 85
+  },
+  {
+    "caption": "candid headshot of Latina woman with bright eyes, ultra-sharp, DSLR",
+    "trainset_idx": 86
+  },
+  {
+    "caption": "studio portrait of teen girl with heart-shaped face, soft studio lighting, skin detail",
+    "trainset_idx": 87
+  },
+  {
+    "caption": "cinematic close-up of white male with stubble, rim light, f/1.8",
+    "trainset_idx": 88
+  },
+  {
+    "caption": "candid headshot of African-American man with tired expression, shallow depth of field, 50 mm",
+    "trainset_idx": 89
+  },
+  {
+    "caption": "studio portrait of Asian boy with anime-style eyes, cinematic lighting, ultra-sharp",
+    "trainset_idx": 90
+  },
+  {
+    "caption": "studio portrait of young woman, textured skin, curly hair, soft studio lighting",
+    "trainset_idx": 91
+  },
+  {
+    "caption": "cinematic close-up of elderly man, sharp jawline, mustache, ultra-sharp, f/1.8",
+    "trainset_idx": 92
+  },
+  {
+    "caption": "candid headshot of teenager, smirking, afro hairstyle, cinematic lighting, 50 mm",
+    "trainset_idx": 93
+  },
+  {
+    "caption": "studio portrait of woman, high cheekbones, silver hair, rim light, Kodak Porta 400",
+    "trainset_idx": 94
+  },
+  {
+    "caption": "cinematic close-up of man, tired expression, stubble, shallow depth of field, DSLR",
+    "trainset_idx": 95
+  },
+  {
+    "caption": "candid headshot of girl, bright eyes, natural makeup, high-detail skin, ultra-sharp",
+    "trainset_idx": 96
+  },
+  {
+    "caption": "studio portrait of man, strong chin, glasses, soft studio lighting, f/1.8",
+    "trainset_idx": 97
+  },
+  {
+    "caption": "cinematic close-up of woman, neutral expression, long hair, 50 mm, DSLR",
+    "trainset_idx": 98
+  },
+  {
+    "caption": "candid headshot of elderly woman, wrinkled skin, headscarf, rim light, cinematic lighting",
+    "trainset_idx": 99
+  },
+  {
+    "caption": "studio portrait of boy, dimpled cheeks, short hair, ultra-sharp, shallow depth of field",
+    "trainset_idx": 100
+  }
+]
